@@ -21,8 +21,8 @@ importers:
         specifier: 9.0.3
         version: 9.0.3(vue@3.5.13(typescript@5.5.4))
       '@xmldom/xmldom':
-        specifier: 0.9.6
-        version: 0.9.6
+        specifier: 0.9.7
+        version: 0.9.7
       markdown-it:
         specifier: 14.1.0
         version: 14.1.0
@@ -1868,8 +1868,8 @@ packages:
   '@webassemblyjs/wast-printer@1.12.1':
     resolution: {integrity: sha512-+X4WAlOisVWQMikjbcvY2e0rwPsKQ9F688lksZhBcPycBBuii3O7m8FACbDMWDojpAqvjIncrG8J0XHKyQfVeA==}
 
-  '@xmldom/xmldom@0.9.6':
-    resolution: {integrity: sha512-Su4xcxR0CPGwlDHNmVP09fqET9YxbyDXHaSob6JlBH7L6reTYaeim6zbk9o08UarO0L5GTRo3uzl0D+9lSxmvw==}
+  '@xmldom/xmldom@0.9.7':
+    resolution: {integrity: sha512-syvR8iIJjpTZ/stv7l89UAViwGFh6lbheeOaqSxkYx9YNmIVvPTRH+CT/fpykFtUx5N+8eSMDRvggF9J8GEPzQ==}
     engines: {node: '>=14.6'}
 
   '@xtuc/ieee754@1.2.0':
@@ -7865,7 +7865,7 @@ snapshots:
       '@webassemblyjs/ast': 1.12.1
       '@xtuc/long': 4.2.2
 
-  '@xmldom/xmldom@0.9.6': {}
+  '@xmldom/xmldom@0.9.7': {}
 
   '@xtuc/ieee754@1.2.0': {}
 
